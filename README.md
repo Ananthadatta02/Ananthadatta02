@@ -1,8 +1,9 @@
 # Hi there, I'm Anantha Datta! 
 
-- 👋 **Welcome to my GitHub!** I'm passionate about **web development, full-stack development, and software engineering**.
-- 👀 **Interests:** IT, software, building impactful **open-source projects**, and contributing to the **tech community**.
-- 🌱 **Currently Learning:** Java, Java 8, Java Frameworks, Advanced Java.
+- 👋 **Welcome to my GitHub!** I'm passionate about **Web Development, Full-Stack Development, and Software Engineering**.
+- 👀 **Interests:** IT, Software, Building impactful **Open-source projects**, and contributing to the **Tech community**.
+- 🌱 **Currently Learning:** Java 8, Java Frameworks, Advanced Java.
+- 💻 **Skills:** Proficient in **Java**, **SQL**, **HTML**, **CSS**, and **JavaScript**.
 - 💞️ **Looking to Collaborate On:** Open-source projects, full-stack applications, and innovative software solutions.
 - 📫 **How to Reach Me:** [Email me](mailto:ananthadatta1@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/sarvade-anantha-datta-5a0807249/).
 - 😄 **Pronouns:** He/Him
